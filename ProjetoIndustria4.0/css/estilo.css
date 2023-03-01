@@ -1,0 +1,41 @@
+html{
+    scroll-behavior: smooth;
+}
+header{
+    background-color: black;
+    padding: 0%;
+    font-family: 'Fredoka One', cursive;
+    display: flex;
+    flex-direction: column;
+    top: 0%;
+    align-items: center;
+}
+.logo{
+    text-align: center;
+}
+.img_logo{
+    width: 70%;
+}
+.itens_menu{
+    text-align: center;
+}
+.itens_menu li{
+    font-size: 1.5em;
+    line-height: 1.5;
+}
+body{
+    background-color: silver;
+
+}
+section{
+    margin-top: 1.5%;
+    margin-bottom: 1.5%;
+}
+
+
+.container{
+
+    width: 80%;
+    margin:auto;
+
+}
