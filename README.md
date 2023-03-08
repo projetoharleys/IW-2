@@ -1,2 +1,2 @@
 # IW-2
-https://projetoharleys.github.io/IW-2-Site-/
+https://projetoharleys.github.io/IW-2/
