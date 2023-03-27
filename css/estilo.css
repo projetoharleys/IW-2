@@ -69,6 +69,15 @@ section{
 
 }
 
+.img_curso{
+    width: 50%;
+    height: px;
+    margin-top: 10%;
+    margin-left: 40%;
+    float: right;
+    position: absolute;
+}
+
 .frase{
     float:left;
     margin-left: 13%;
